@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter project.
+My first Flutter project following the great videos from Net Ninja. (https://www.youtube.com/@NetNinja)
 
 ## Getting Started
 
